@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <header>
-          <h1>LOGO</h1>
+          <img src="/img/berat-dimen-siyaah-logo.png" />
           <ul>
             <li>
               <Link href={"/"}>Home</Link>

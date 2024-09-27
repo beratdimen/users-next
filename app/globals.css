@@ -57,7 +57,9 @@ header {
   top: 0;
   z-index: 999;
   background-color: #fff !important;
-
+  img {
+    width: 130px;
+  }
   ul {
     list-style: none;
     display: flex;
